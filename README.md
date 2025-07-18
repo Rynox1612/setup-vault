@@ -33,7 +33,7 @@ Inside, you’ll find:
 
 | Technology | Folder Link |
 |------------|-------------|
-| Express.js | [express](./express) |
+| Express.js | [express](./express/info.md) |
 | MySQL2     | [mysql2](./mysql2) |
 | MongoDB    | [mongoDB](./mongoDB) |
 | EJS        | [ejs](./ejs) |
