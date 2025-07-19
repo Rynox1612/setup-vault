@@ -31,18 +31,19 @@ Inside, you’ll find:
 
 ## 📊 Technologies & Quick Access
 
-| Technology | Folder Link |
-|------------|-------------|
-| Express.js | [express](./express/info.md) |
-| MySQL2     | [mysql2](./mysql2) |
-| MongoDB    | [mongoDB](./mongoDB) |
-| EJS        | [ejs](./ejs) |
-| Dotenv     | [dotenv](./dotenv) |
-| UUID       | [uuid](./uuid) |
-| Shell Script | [shell](./shell) |
-| Method Override | [method-override](./method-override) |
-| Sequelize  | [sequelize](./sequelize) |
-| CORS       | [cors](./cors) |
+| Technology | Folder Link | Status |
+|------------|-------------|--------|
+| Express.js | [express](./express/info.md) | Pending... |
+| MySQL2     | [mysql2](./mysql2) | Waiting |
+| MongoDB    | [mongoDB](./mongoDB) | Waiting |
+|Mongoose    | [mongoose](./Mongoose/info.md)| Ready to use |
+| EJS        | [ejs](./ejs) | Waiting |
+| Dotenv     | [dotenv](./dotenv) | Waiting |
+| UUID       | [uuid](./uuid) | Waiting |
+| Shell Script | [shell](./shell) | Waiting |
+| Method Override | [method-override](./method-override) | Waiting |
+| Sequelize  | [sequelize](./sequelize) | Waiting |
+| CORS       | [cors](./cors) | Waiting |
 
 _Will add more as my vault expands..._
 
