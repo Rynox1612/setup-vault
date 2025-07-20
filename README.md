@@ -41,6 +41,7 @@ Inside, you’ll find:
 | Dotenv     | [dotenv](./dotenv) | Waiting |
 | UUID       | [uuid](./uuid) | Waiting |
 | Shell Script | [shell](./shell) | Waiting |
+| SSH-key-setup | [ SSH-key-setup ](./SSH-key-setup/info.md)|Completed|
 | Method Override | [method-override](./method-override) | Waiting |
 | Sequelize  | [sequelize](./sequelize) | Waiting |
 | CORS       | [cors](./cors) | Waiting |
