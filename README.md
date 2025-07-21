@@ -37,6 +37,7 @@ Inside, you’ll find:
 | MySQL2     | [mysql2](./mysql2) | Waiting |
 | MongoDB    | [mongoDB](./mongoDB) | Waiting |
 |Mongoose    | [mongoose](./Mongoose/info.md)| Ready to use |
+|mongo-with-express|[mongo-with-express](./mongo-with-express/info.md)|pending...|
 | EJS        | [ejs](./ejs) | Waiting |
 | Dotenv     | [dotenv](./dotenv) | Waiting |
 | UUID       | [uuid](./uuid) | Waiting |
