@@ -33,7 +33,7 @@ Inside, you’ll find:
 
 | Technology | Folder Link | Status |
 |------------|-------------|--------|
-| Express.js | [express](./express/info.md) | Pending... |
+| Express.js | [express](./express/info.md) | Done |
 | MySQL2     | [mysql2](./mysql2) | Waiting |
 | MongoDB    | [mongoDB](./mongoDB) | Waiting |
 |Mongoose    | [mongoose](./Mongoose/info.md)| Ready to use |
