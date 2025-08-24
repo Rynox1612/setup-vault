@@ -33,6 +33,7 @@ Inside, you’ll find:
 
 | Technology | Folder Link | Status |
 |------------|-------------|--------|
+| Git commands|[Git](./Git-commands/info.md)|DoneS|
 | Express.js | [express](./express/info.md) | Done |
 | MySQL2     | [mysql2](./mysql2) | Waiting |
 | MongoDB    | [mongoDB](./mongoDB) | Waiting |
