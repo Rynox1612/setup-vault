@@ -43,7 +43,8 @@ Inside, you’ll find:
 | UUID               | [uuid](./uuid)                                     | Waiting      |
 | Shell Script       | [shell](./shell)                                   | Waiting      |
 | SSH-key-setup      | [ SSH-key-setup ](./SSH-key-setup/info.md)         | Completed    |
-| Middleware         | [Middleware](./Middleware/info.md)                 | Done         |
+| Middleware         | [Middleware](./Middleware/info.md)                 | Completed    |
+| Error handling     | [error-handling](./error-handling/info.md)         | Completed    |
 | Method Override    | [method-override](./method-override)               | Waiting      |
 | Sequelize          | [sequelize](./sequelize)                           | Waiting      |
 | CORS               | [cors](./cors)                                     | Waiting      |
