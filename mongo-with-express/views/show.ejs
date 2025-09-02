@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="chat">
+      <p>From: <i><%=chat.from%></i></p>
+      <textarea name="message" readonly="true"><%=chat.message%> </textarea>
+      <p>Recieved by <i><%=chat.to%></i></p>
+    </div>
+    <button class="btn btn-primary" onclick="window.location.href = '/chats'">
+      Back
+    </button>
+  </body>
+</html>
