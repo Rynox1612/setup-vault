@@ -30,24 +30,23 @@ Inside, you’ll find:
 
 ## 📊 Technologies & Quick Access
 
-| Technology         | Folder Link                                        | Status       |
-| ------------------ | -------------------------------------------------- | ------------ |
-| Git commands       | [Git](./Git-commands/info.md)                      | DoneS        |
-| Express.js         | [express](./express/info.md)                       | Done         |
-| MySQL2             | [mysql2](./mysql2)                                 | Waiting      |
-| MongoDB            | [mongoDB](./mongoDB)                               | Waiting      |
-| Mongoose           | [mongoose](./Mongoose/info.md)                     | Ready to use |
-| mongo-with-express | [mongo-with-express](./mongo-with-express/info.md) | pending...   |
-| EJS                | [ejs](./ejs)                                       | Waiting      |
-| Dotenv             | [dotenv](./dotenv)                                 | Waiting      |
-| UUID               | [uuid](./uuid)                                     | Waiting      |
-| Shell Script       | [shell](./shell)                                   | Waiting      |
-| SSH-key-setup      | [ SSH-key-setup ](./SSH-key-setup/info.md)         | Completed    |
-| Middleware         | [Middleware](./Middleware/info.md)                 | Completed    |
-| Error handling     | [error-handling](./error-handling/info.md)         | Completed    |
-| Method Override    | [method-override](./method-override)               | Waiting      |
-| Sequelize          | [sequelize](./sequelize)                           | Waiting      |
-| CORS               | [cors](./cors)                                     | Waiting      |
+| Technology          | Folder Link                                        | Status       |
+| ------------------- | -------------------------------------------------- | ------------ |
+| Git commands        | [Git](./Git-commands/info.md)                      | Completed    |
+| Express.js          | [express](./express/info.md)                       | Completed    |
+| MySQL2              | [mysql2](./mysql2)                                 | Waiting      |
+| MongoDB             | [mongoDB](./mongoDB)                               | Waiting      |
+| Mongoose            | [mongoose](./Mongoose/info.md)                     | Ready to use |
+| mongo-with-express  | [mongo-with-express](./mongo-with-express/info.md) | pending...   |
+| collection-relation | [mongo-relarions](./mongo-relationships/info.md)   | Completed    |
+| EJS                 | [ejs](./ejs)                                       | Waiting      |
+| Dotenv              | [dotenv](./dotenv)                                 | Waiting      |
+| UUID                | [uuid](./uuid)                                     | Waiting      |
+| Shell Script        | [shell](./shell)                                   | Waiting      |
+| SSH-key-setup       | [ SSH-key-setup ](./SSH-key-setup/info.md)         | Completed    |
+| Middleware          | [Middleware](./Middleware/info.md)                 | Completed    |
+| Error handling      | [error-handling](./error-handling/info.md)         | Completed    |
+| Method Override     | [method-override](./method-override)               | Waiting      |
 
 _Will add more as my vault expands..._
 
